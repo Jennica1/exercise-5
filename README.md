@@ -3,7 +3,7 @@
 ## Made By
 - Jennica
 
-##Description 
+## Description 
 Learned how to install and create different types of data charts using reacr-charts
 
 ## Installation 
